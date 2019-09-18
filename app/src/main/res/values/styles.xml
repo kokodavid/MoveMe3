@@ -15,4 +15,18 @@
         <item name="android:windowContentOverlay">@null</item>
     </style>
 
+    //toast//
+    <style name="mytoast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#000000</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stColorBackground">#fde400</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#fde400</item>
+        <item name="stLength">LONG</item> LONG or SHORT
+        <item name="stGravity">top</item> top or center
+        <item name="stRadius">5dp</item>
+    </style>
+
 </resources>

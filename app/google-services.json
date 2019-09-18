@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609766363502",
+    "firebase_url": "https://moveme-63c4e.firebaseio.com",
+    "project_id": "moveme-63c4e",
+    "storage_bucket": "moveme-63c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609766363502:android:d133e1876f885bf14ab17f",
+        "android_client_info": {
+          "package_name": "com.david.moveme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609766363502-6ko9thg10crfq71tq5i7ei41o9itnhq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.david.moveme",
+            "certificate_hash": "9f35283a2c188858890567bd04541930051a16de"
+          }
+        },
+        {
+          "client_id": "609766363502-vl7m4ael9bohrtki8rhau3r807q1s02j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm8sXdMf3T3oNwouNBKcn-srbRo3aRGLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609766363502-vl7m4ael9bohrtki8rhau3r807q1s02j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
